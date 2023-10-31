@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDoListHK</title>
+    <link rel="stylesheet" href="ToDoSkillTestHK.css">
+    <script src="https://kit.fontawesome.com/45b660c3a9.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <h1>TodoList</h1>
+    <div id="main-container">
+        <div id="input-container">
+            <img src="Icons/cheked.png" alt="checked list" class="listImg">
+            <input type="text" id="textIP" placeholder="Enter ur task" style="font-size: 1.2rem;">
+            <img src="/Icons/circle_plus.svg" alt="checked list" class="addBtn">
+        </div>
+        <div class="helping-text">
+             <span><img src="Icons/double_tick.png" alt="double-tick" class="doublecheckicon"> Complete all taks</span> 
+             <span id="clearBTN">Clear completed</span> 
+        </div>
+        <hr> 
+        <ul id="list"> 
+            <!-- <li>
+                <input type="checkbox"  id="idofTask"  checked >
+                <label for="idofTask">First List</label>
+                <img src="circle_xmark.svg" alt="XMark"  calss="XMark"> 
+            </li> -->
+        </ul>
+        <hr>
+        <div   class="helping-text">
+            <span> Total tasks <span id="counter">0</span></span> 
+            <span><span  style="color: black;"> All </span> <span>Uncompleted</span> <span>completed</span> </span>
+        </div>
+
+    </div>
+    <script src="ToDoSkillTestHK.js"></script>
+</body>
+</html>
