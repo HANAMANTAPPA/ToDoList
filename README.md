@@ -1,6 +1,8 @@
 # ToDoList
 Simple Todo list with vanilla JS 
 
+![Screenshot 2023-11-02 182443](https://github.com/HANAMANTAPPA/ToDoList/assets/48180907/71a2de31-83af-4a64-8044-80e122b036e3)
+
 ## 1st part- UI design
 * added the main container where all content will be shown. 
 *added Input container for taking the input task or ToDo. 
@@ -25,6 +27,5 @@ Simple Todo list with vanilla JS
   - filter AllTasks, UncommpletedTasks , CompletedTasks,
   - Complete all Tasks
   - Clear completed Tasks
-![Screenshot 2023-11-02 182443](https://github.com/HANAMANTAPPA/ToDoList/assets/48180907/71a2de31-83af-4a64-8044-80e122b036e3)
 
     
