@@ -7,20 +7,20 @@ Simple Todo list with vanilla JS
 *added task counter for showing number of tasks on the screen. 
 *onadered list for addeding along with delete botton
 
-## 2nd Functionality (In scope)
-	- Add a TODO or Task
-	- Delete a TODO or Taks
-	- Toggle task check or uncheck
-	- total items count 
+## 2nd Part - Functionality (In scope)
+   - Add a TODO or Task
+   - Delete a TODO or Taks
+   - Toggle task check or uncheck
+   - total items count 
 ## Functions (In scope)
-	- addTodo
-	- deleteTodo
-	- Toggle Todo
-	- renderTodosList
-	- showNotification
+   - addTodo
+   - deleteTodo
+   - Toggle Todo
+   - renderTodosList
+   - showNotification
 ## Data
-	- tasks - an array 
-	- task - {id, title, completed}
+   - tasks - an array 
+   - task - {id, title, completed}
 ## Functions out of scope 
   - filter AllTasks, UncommpletedTasks , CompletedTasks,
   - Complete all Tasks
