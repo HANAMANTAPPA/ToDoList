@@ -24,7 +24,7 @@ https://hanamantappa.github.io/ToDoList/
 ## Data
    - tasks - an array 
    - task - {id, title, completed}
-## Functions out of scope 
+## Functions out of scope (I'll implement in upcoming days)
   - filter AllTasks, UncommpletedTasks , CompletedTasks,
   - Complete all Tasks
   - Clear completed Tasks
