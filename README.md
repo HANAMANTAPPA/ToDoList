@@ -7,7 +7,7 @@ Simple Todo list with vanilla JS
    * added the main container where all content will be shown. 
    * added Input container for taking the input task or ToDo. 
    * added task counter for showing number of tasks on the screen. 
-   * unadered list for addeding along with delete botton
+   * unodered list for addeding along with delete botton
 
 ## 2nd Part - Functionality (In scope)
    - Add a TODO or Task
